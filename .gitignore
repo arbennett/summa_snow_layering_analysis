@@ -1,5 +1,6 @@
 # Byte-compiled / optimized / DLL files
-dask_worker_space
+.pysumma
+dask-worker-space
 .ipynb_checkpoints
 __pycache__/
 *.py[cod]
