@@ -1,7 +1,7 @@
 controlVersion       'SUMMA_FILE_MANAGER_V3.0.0' !  filemanager_version
 simStartTime         '1994-01-01 01:00' !
 simEndTime           '2010-12-28 01:00' !
-tmZoneInfo           'utcTime' !
+tmZoneInfo           'localTime' !
 settingsPath         '/pool0/data/andrbenn/snow_layering/summa_snow_layering_analysis/run_simulations/coldeport/settings/' !  settings_path
 forcingPath          '/pool0/data/andrbenn/snow_layering/summa_snow_layering_analysis/run_simulations/coldeport/forcings/' !  input_path
 outputPath           '/pool0/data/andrbenn/snow_layering/summa_snow_layering_analysis/run_simulations/coldeport/output/' !  output_path
